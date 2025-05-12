@@ -1,72 +1,72 @@
 filename,class
 1.jpg,2. Brown Blight
-10.jpg,6. Green mirid bug
-100.jpg,3. Gray Blight
-101.jpg,2. Brown Blight
+10.jpg,1. Tea algal leaf spot
+100.jpg,2. Brown Blight
+101.jpg,5. Red spider
 102.jpg,5. Red spider
 103.jpg,7. Healthy leaf
 104.jpg,2. Brown Blight
-105.jpg,3. Gray Blight
-106.jpg,2. Brown Blight
-107.jpg,2. Brown Blight
+105.jpg,2. Brown Blight
+106.jpg,3. Gray Blight
+107.jpg,7. Healthy leaf
 108.jpg,7. Healthy leaf
 109.jpg,1. Tea algal leaf spot
 11.jpg,1. Tea algal leaf spot
-110.jpg,4. Helopeltis
-111.jpg,7. Healthy leaf
-112.jpg,5. Red spider
-113.jpg,7. Healthy leaf
+110.jpg,7. Healthy leaf
+111.jpg,3. Gray Blight
+112.jpg,7. Healthy leaf
+113.jpg,2. Brown Blight
 114.jpg,6. Green mirid bug
-115.jpg,3. Gray Blight
-116.jpg,7. Healthy leaf
-117.jpg,5. Red spider
+115.jpg,5. Red spider
+116.jpg,2. Brown Blight
+117.jpg,2. Brown Blight
 118.jpg,2. Brown Blight
-119.jpg,1. Tea algal leaf spot
-12.jpg,2. Brown Blight
-120.jpg,3. Gray Blight
-121.jpg,7. Healthy leaf
+119.jpg,3. Gray Blight
+12.jpg,1. Tea algal leaf spot
+120.jpg,2. Brown Blight
+121.jpg,3. Gray Blight
 122.jpg,7. Healthy leaf
-123.jpg,1. Tea algal leaf spot
-124.jpg,1. Tea algal leaf spot
-125.jpg,5. Red spider
-126.jpg,2. Brown Blight
-127.jpg,4. Helopeltis
-128.jpg,7. Healthy leaf
-129.jpg,1. Tea algal leaf spot
+123.jpg,3. Gray Blight
+124.jpg,2. Brown Blight
+125.jpg,3. Gray Blight
+126.jpg,5. Red spider
+127.jpg,5. Red spider
+128.jpg,5. Red spider
+129.jpg,7. Healthy leaf
 13.jpg,1. Tea algal leaf spot
-130.jpg,4. Helopeltis
+130.jpg,7. Healthy leaf
 131.jpg,4. Helopeltis
-132.jpg,7. Healthy leaf
+132.jpg,4. Helopeltis
 133.jpg,4. Helopeltis
-134.jpg,7. Healthy leaf
-135.jpg,7. Healthy leaf
-136.jpg,7. Healthy leaf
-137.jpg,3. Gray Blight
-138.jpg,7. Healthy leaf
-139.jpg,6. Green mirid bug
-14.jpg,5. Red spider
+134.jpg,4. Helopeltis
+135.jpg,4. Helopeltis
+136.jpg,4. Helopeltis
+137.jpg,1. Tea algal leaf spot
+138.jpg,2. Brown Blight
+139.jpg,4. Helopeltis
+14.jpg,1. Tea algal leaf spot
 140.jpg,4. Helopeltis
-141.jpg,7. Healthy leaf
-142.jpg,7. Healthy leaf
-143.jpg,4. Helopeltis
-144.jpg,7. Healthy leaf
-145.jpg,7. Healthy leaf
-146.jpg,7. Healthy leaf
-147.jpg,7. Healthy leaf
+141.jpg,4. Helopeltis
+142.jpg,4. Helopeltis
+143.jpg,6. Green mirid bug
+144.jpg,4. Helopeltis
+145.jpg,4. Helopeltis
+146.jpg,4. Helopeltis
+147.jpg,4. Helopeltis
 148.jpg,4. Helopeltis
 149.jpg,4. Helopeltis
-15.jpg,4. Helopeltis
+15.jpg,1. Tea algal leaf spot
 150.jpg,4. Helopeltis
-151.jpg,5. Red spider
-152.jpg,4. Helopeltis
-153.jpg,7. Healthy leaf
+151.jpg,4. Helopeltis
+152.jpg,7. Healthy leaf
+153.jpg,4. Helopeltis
 154.jpg,4. Helopeltis
-155.jpg,7. Healthy leaf
+155.jpg,4. Helopeltis
 156.jpg,4. Helopeltis
 157.jpg,4. Helopeltis
 158.jpg,4. Helopeltis
 159.jpg,4. Helopeltis
-16.jpg,7. Healthy leaf
+16.jpg,1. Tea algal leaf spot
 160.jpg,4. Helopeltis
 161.jpg,4. Helopeltis
 162.jpg,4. Helopeltis
@@ -77,12 +77,12 @@ filename,class
 167.jpg,4. Helopeltis
 168.jpg,4. Helopeltis
 169.jpg,4. Helopeltis
-17.jpg,2. Brown Blight
+17.jpg,1. Tea algal leaf spot
 170.jpg,4. Helopeltis
 171.jpg,4. Helopeltis
 172.jpg,4. Helopeltis
 173.jpg,4. Helopeltis
-174.jpg,7. Healthy leaf
+174.jpg,4. Helopeltis
 175.jpg,4. Helopeltis
 176.jpg,4. Helopeltis
 177.jpg,4. Helopeltis
@@ -91,17 +91,17 @@ filename,class
 18.jpg,2. Brown Blight
 180.jpg,4. Helopeltis
 181.jpg,4. Helopeltis
-182.jpg,4. Helopeltis
-183.jpg,4. Helopeltis
-184.jpg,4. Helopeltis
-185.jpg,4. Helopeltis
-186.jpg,3. Gray Blight
+182.jpg,6. Green mirid bug
+183.jpg,6. Green mirid bug
+184.jpg,6. Green mirid bug
+185.jpg,6. Green mirid bug
+186.jpg,4. Helopeltis
 187.jpg,4. Helopeltis
 188.jpg,4. Helopeltis
 189.jpg,6. Green mirid bug
-19.jpg,5. Red spider
+19.jpg,1. Tea algal leaf spot
 190.jpg,4. Helopeltis
-191.jpg,4. Helopeltis
+191.jpg,6. Green mirid bug
 192.jpg,4. Helopeltis
 193.jpg,4. Helopeltis
 194.jpg,4. Helopeltis
@@ -110,60 +110,60 @@ filename,class
 197.jpg,4. Helopeltis
 198.jpg,4. Helopeltis
 199.jpg,4. Helopeltis
-2.jpg,7. Healthy leaf
+2.jpg,2. Brown Blight
 20.jpg,1. Tea algal leaf spot
 200.jpg,4. Helopeltis
 201.jpg,4. Helopeltis
-202.jpg,4. Helopeltis
-203.jpg,7. Healthy leaf
-204.jpg,6. Green mirid bug
+202.jpg,6. Green mirid bug
+203.jpg,4. Helopeltis
+204.jpg,4. Helopeltis
 205.jpg,4. Helopeltis
 206.jpg,4. Helopeltis
 207.jpg,4. Helopeltis
-208.jpg,7. Healthy leaf
+208.jpg,6. Green mirid bug
 209.jpg,4. Helopeltis
-21.jpg,6. Green mirid bug
-210.jpg,7. Healthy leaf
-211.jpg,2. Brown Blight
-212.jpg,1. Tea algal leaf spot
-213.jpg,2. Brown Blight
+21.jpg,1. Tea algal leaf spot
+210.jpg,4. Helopeltis
+211.jpg,5. Red spider
+212.jpg,5. Red spider
+213.jpg,5. Red spider
 214.jpg,5. Red spider
-215.jpg,3. Gray Blight
-216.jpg,1. Tea algal leaf spot
+215.jpg,5. Red spider
+216.jpg,5. Red spider
 217.jpg,5. Red spider
-218.jpg,7. Healthy leaf
-219.jpg,1. Tea algal leaf spot
-22.jpg,2. Brown Blight
+218.jpg,5. Red spider
+219.jpg,5. Red spider
+22.jpg,6. Green mirid bug
 220.jpg,5. Red spider
-221.jpg,7. Healthy leaf
+221.jpg,5. Red spider
 222.jpg,1. Tea algal leaf spot
 223.jpg,5. Red spider
 224.jpg,5. Red spider
 225.jpg,5. Red spider
-226.jpg,4. Helopeltis
+226.jpg,5. Red spider
 227.jpg,5. Red spider
 228.jpg,5. Red spider
-229.jpg,2. Brown Blight
-23.jpg,2. Brown Blight
-230.jpg,7. Healthy leaf
-231.jpg,4. Helopeltis
-232.jpg,4. Helopeltis
-233.jpg,1. Tea algal leaf spot
+229.jpg,3. Gray Blight
+23.jpg,1. Tea algal leaf spot
+230.jpg,5. Red spider
+231.jpg,5. Red spider
+232.jpg,5. Red spider
+233.jpg,5. Red spider
 234.jpg,5. Red spider
-235.jpg,7. Healthy leaf
-236.jpg,3. Gray Blight
-237.jpg,1. Tea algal leaf spot
-238.jpg,7. Healthy leaf
+235.jpg,5. Red spider
+236.jpg,5. Red spider
+237.jpg,5. Red spider
+238.jpg,5. Red spider
 239.jpg,5. Red spider
 24.jpg,2. Brown Blight
-240.jpg,2. Brown Blight
-241.jpg,1. Tea algal leaf spot
+240.jpg,5. Red spider
+241.jpg,5. Red spider
 242.jpg,5. Red spider
 243.jpg,4. Helopeltis
 244.jpg,5. Red spider
-245.jpg,7. Healthy leaf
-246.jpg,2. Brown Blight
-247.jpg,1. Tea algal leaf spot
+245.jpg,3. Gray Blight
+246.jpg,5. Red spider
+247.jpg,6. Green mirid bug
 248.jpg,5. Red spider
 249.jpg,5. Red spider
 25.jpg,2. Brown Blight
@@ -172,113 +172,113 @@ filename,class
 252.jpg,5. Red spider
 253.jpg,5. Red spider
 254.jpg,5. Red spider
-255.jpg,2. Brown Blight
-256.jpg,7. Healthy leaf
-257.jpg,3. Gray Blight
+255.jpg,5. Red spider
+256.jpg,1. Tea algal leaf spot
+257.jpg,5. Red spider
 258.jpg,5. Red spider
 259.jpg,5. Red spider
-26.jpg,2. Brown Blight
-260.jpg,5. Red spider
-261.jpg,4. Helopeltis
+26.jpg,1. Tea algal leaf spot
+260.jpg,3. Gray Blight
+261.jpg,5. Red spider
 262.jpg,5. Red spider
-263.jpg,1. Tea algal leaf spot
+263.jpg,3. Gray Blight
 264.jpg,7. Healthy leaf
-265.jpg,1. Tea algal leaf spot
-266.jpg,5. Red spider
-267.jpg,4. Helopeltis
-268.jpg,5. Red spider
-269.jpg,4. Helopeltis
-27.jpg,2. Brown Blight
-270.jpg,3. Gray Blight
-271.jpg,4. Helopeltis
-272.jpg,4. Helopeltis
-273.jpg,4. Helopeltis
-274.jpg,4. Helopeltis
-275.jpg,2. Brown Blight
-276.jpg,4. Helopeltis
-277.jpg,2. Brown Blight
-278.jpg,2. Brown Blight
-279.jpg,4. Helopeltis
+265.jpg,7. Healthy leaf
+266.jpg,2. Brown Blight
+267.jpg,7. Healthy leaf
+268.jpg,6. Green mirid bug
+269.jpg,5. Red spider
+27.jpg,6. Green mirid bug
+270.jpg,6. Green mirid bug
+271.jpg,1. Tea algal leaf spot
+272.jpg,5. Red spider
+273.jpg,5. Red spider
+274.jpg,5. Red spider
+275.jpg,7. Healthy leaf
+276.jpg,7. Healthy leaf
+277.jpg,5. Red spider
+278.jpg,7. Healthy leaf
+279.jpg,7. Healthy leaf
 28.jpg,2. Brown Blight
-280.jpg,4. Helopeltis
-281.jpg,1. Tea algal leaf spot
-282.jpg,1. Tea algal leaf spot
-283.jpg,6. Green mirid bug
-284.jpg,2. Brown Blight
-285.jpg,2. Brown Blight
-286.jpg,6. Green mirid bug
-287.jpg,2. Brown Blight
-288.jpg,4. Helopeltis
-289.jpg,6. Green mirid bug
-29.jpg,5. Red spider
-290.jpg,4. Helopeltis
-291.jpg,6. Green mirid bug
-292.jpg,6. Green mirid bug
-293.jpg,1. Tea algal leaf spot
-294.jpg,4. Helopeltis
-295.jpg,5. Red spider
-296.jpg,6. Green mirid bug
+280.jpg,7. Healthy leaf
+281.jpg,3. Gray Blight
+282.jpg,5. Red spider
+283.jpg,5. Red spider
+284.jpg,5. Red spider
+285.jpg,5. Red spider
+286.jpg,5. Red spider
+287.jpg,5. Red spider
+288.jpg,5. Red spider
+289.jpg,5. Red spider
+29.jpg,2. Brown Blight
+290.jpg,6. Green mirid bug
+291.jpg,3. Gray Blight
+292.jpg,3. Gray Blight
+293.jpg,3. Gray Blight
+294.jpg,5. Red spider
+295.jpg,4. Helopeltis
+296.jpg,7. Healthy leaf
 297.jpg,6. Green mirid bug
 298.jpg,4. Helopeltis
 299.jpg,6. Green mirid bug
 3.jpg,2. Brown Blight
-30.jpg,5. Red spider
-300.jpg,2. Brown Blight
-301.jpg,3. Gray Blight
-302.jpg,2. Brown Blight
-303.jpg,7. Healthy leaf
+30.jpg,1. Tea algal leaf spot
+300.jpg,6. Green mirid bug
+301.jpg,6. Green mirid bug
+302.jpg,6. Green mirid bug
+303.jpg,6. Green mirid bug
 304.jpg,6. Green mirid bug
 305.jpg,4. Helopeltis
-306.jpg,7. Healthy leaf
-307.jpg,7. Healthy leaf
-308.jpg,6. Green mirid bug
+306.jpg,4. Helopeltis
+307.jpg,4. Helopeltis
+308.jpg,4. Helopeltis
 309.jpg,6. Green mirid bug
-31.jpg,5. Red spider
-310.jpg,6. Green mirid bug
+31.jpg,1. Tea algal leaf spot
+310.jpg,4. Helopeltis
 311.jpg,4. Helopeltis
 312.jpg,6. Green mirid bug
-313.jpg,2. Brown Blight
-314.jpg,2. Brown Blight
+313.jpg,6. Green mirid bug
+314.jpg,6. Green mirid bug
 315.jpg,6. Green mirid bug
 316.jpg,6. Green mirid bug
 317.jpg,7. Healthy leaf
-318.jpg,2. Brown Blight
+318.jpg,6. Green mirid bug
 319.jpg,6. Green mirid bug
-32.jpg,1. Tea algal leaf spot
+32.jpg,2. Brown Blight
 320.jpg,6. Green mirid bug
-321.jpg,4. Helopeltis
+321.jpg,6. Green mirid bug
 322.jpg,6. Green mirid bug
 323.jpg,6. Green mirid bug
 324.jpg,6. Green mirid bug
-325.jpg,2. Brown Blight
+325.jpg,6. Green mirid bug
 326.jpg,6. Green mirid bug
 327.jpg,6. Green mirid bug
-328.jpg,7. Healthy leaf
+328.jpg,2. Brown Blight
 329.jpg,6. Green mirid bug
 33.jpg,2. Brown Blight
 330.jpg,6. Green mirid bug
 331.jpg,6. Green mirid bug
 332.jpg,6. Green mirid bug
-333.jpg,5. Red spider
+333.jpg,2. Brown Blight
 334.jpg,6. Green mirid bug
 335.jpg,6. Green mirid bug
 336.jpg,6. Green mirid bug
 337.jpg,6. Green mirid bug
-338.jpg,2. Brown Blight
+338.jpg,6. Green mirid bug
 339.jpg,6. Green mirid bug
-34.jpg,1. Tea algal leaf spot
-340.jpg,2. Brown Blight
+34.jpg,2. Brown Blight
+340.jpg,6. Green mirid bug
 341.jpg,6. Green mirid bug
-342.jpg,2. Brown Blight
-343.jpg,2. Brown Blight
-344.jpg,2. Brown Blight
+342.jpg,6. Green mirid bug
+343.jpg,6. Green mirid bug
+344.jpg,6. Green mirid bug
 345.jpg,6. Green mirid bug
 346.jpg,6. Green mirid bug
 347.jpg,6. Green mirid bug
 348.jpg,6. Green mirid bug
 349.jpg,6. Green mirid bug
-35.jpg,2. Brown Blight
-350.jpg,1. Tea algal leaf spot
+35.jpg,5. Red spider
+350.jpg,6. Green mirid bug
 351.jpg,6. Green mirid bug
 352.jpg,6. Green mirid bug
 353.jpg,6. Green mirid bug
@@ -286,70 +286,70 @@ filename,class
 355.jpg,6. Green mirid bug
 356.jpg,6. Green mirid bug
 357.jpg,6. Green mirid bug
-358.jpg,4. Helopeltis
+358.jpg,6. Green mirid bug
 359.jpg,6. Green mirid bug
 36.jpg,1. Tea algal leaf spot
 360.jpg,6. Green mirid bug
-361.jpg,6. Green mirid bug
-362.jpg,4. Helopeltis
+361.jpg,4. Helopeltis
+362.jpg,6. Green mirid bug
 363.jpg,6. Green mirid bug
-364.jpg,4. Helopeltis
+364.jpg,6. Green mirid bug
 365.jpg,6. Green mirid bug
 366.jpg,6. Green mirid bug
-367.jpg,4. Helopeltis
+367.jpg,6. Green mirid bug
 368.jpg,6. Green mirid bug
 369.jpg,6. Green mirid bug
-37.jpg,7. Healthy leaf
+37.jpg,6. Green mirid bug
 370.jpg,6. Green mirid bug
 371.jpg,6. Green mirid bug
-372.jpg,7. Healthy leaf
-373.jpg,4. Helopeltis
+372.jpg,6. Green mirid bug
+373.jpg,6. Green mirid bug
 374.jpg,6. Green mirid bug
-375.jpg,4. Helopeltis
+375.jpg,6. Green mirid bug
 376.jpg,6. Green mirid bug
 377.jpg,4. Helopeltis
-378.jpg,4. Helopeltis
-379.jpg,4. Helopeltis
-38.jpg,4. Helopeltis
-380.jpg,4. Helopeltis
+378.jpg,6. Green mirid bug
+379.jpg,6. Green mirid bug
+38.jpg,3. Gray Blight
+380.jpg,6. Green mirid bug
 381.jpg,6. Green mirid bug
 382.jpg,6. Green mirid bug
-383.jpg,3. Gray Blight
-384.jpg,4. Helopeltis
+383.jpg,6. Green mirid bug
+384.jpg,6. Green mirid bug
 385.jpg,6. Green mirid bug
 386.jpg,6. Green mirid bug
-387.jpg,4. Helopeltis
+387.jpg,6. Green mirid bug
 388.jpg,6. Green mirid bug
 389.jpg,6. Green mirid bug
-39.jpg,7. Healthy leaf
+39.jpg,3. Gray Blight
 390.jpg,6. Green mirid bug
 391.jpg,6. Green mirid bug
 392.jpg,6. Green mirid bug
 393.jpg,7. Healthy leaf
-394.jpg,2. Brown Blight
-395.jpg,3. Gray Blight
+394.jpg,7. Healthy leaf
+395.jpg,7. Healthy leaf
 396.jpg,7. Healthy leaf
-397.jpg,7. Healthy leaf
+397.jpg,5. Red spider
 398.jpg,7. Healthy leaf
 399.jpg,7. Healthy leaf
-4.jpg,1. Tea algal leaf spot
-40.jpg,4. Helopeltis
+4.jpg,5. Red spider
+40.jpg,2. Brown Blight
 400.jpg,7. Healthy leaf
 401.jpg,7. Healthy leaf
-402.jpg,2. Brown Blight
+402.jpg,7. Healthy leaf
 403.jpg,7. Healthy leaf
 404.jpg,7. Healthy leaf
-405.jpg,7. Healthy leaf
-406.jpg,2. Brown Blight
-407.jpg,3. Gray Blight
+405.jpg,5. Red spider
+406.jpg,7. Healthy leaf
+407.jpg,7. Healthy leaf
 408.jpg,7. Healthy leaf
 409.jpg,7. Healthy leaf
-41.jpg,4. Helopeltis
+41.jpg,2. Brown Blight
 410.jpg,7. Healthy leaf
 411.jpg,5. Red spider
 412.jpg,7. Healthy leaf
 413.jpg,7. Healthy leaf
-414.jpg,3. Gray Blight
+414.jpg,7. Healthy leaf
 415.jpg,7. Healthy leaf
 416.jpg,7. Healthy leaf
 417.jpg,7. Healthy leaf
@@ -357,48 +357,48 @@ filename,class
 419.jpg,7. Healthy leaf
 42.jpg,2. Brown Blight
 420.jpg,1. Tea algal leaf spot
-421.jpg,1. Tea algal leaf spot
+421.jpg,7. Healthy leaf
 422.jpg,7. Healthy leaf
 423.jpg,7. Healthy leaf
-424.jpg,4. Helopeltis
+424.jpg,7. Healthy leaf
 425.jpg,7. Healthy leaf
 426.jpg,7. Healthy leaf
-427.jpg,7. Healthy leaf
+427.jpg,6. Green mirid bug
 428.jpg,7. Healthy leaf
 429.jpg,4. Helopeltis
-43.jpg,2. Brown Blight
-430.jpg,4. Helopeltis
+43.jpg,1. Tea algal leaf spot
+430.jpg,3. Gray Blight
 431.jpg,7. Healthy leaf
 432.jpg,7. Healthy leaf
-433.jpg,1. Tea algal leaf spot
+433.jpg,7. Healthy leaf
 434.jpg,7. Healthy leaf
 435.jpg,7. Healthy leaf
-436.jpg,3. Gray Blight
+436.jpg,7. Healthy leaf
 437.jpg,7. Healthy leaf
 438.jpg,7. Healthy leaf
 439.jpg,7. Healthy leaf
-44.jpg,2. Brown Blight
+44.jpg,1. Tea algal leaf spot
 440.jpg,7. Healthy leaf
-441.jpg,4. Helopeltis
+441.jpg,7. Healthy leaf
 442.jpg,7. Healthy leaf
-443.jpg,3. Gray Blight
+443.jpg,7. Healthy leaf
 444.jpg,7. Healthy leaf
-445.jpg,4. Helopeltis
-446.jpg,4. Helopeltis
+445.jpg,7. Healthy leaf
+446.jpg,7. Healthy leaf
 447.jpg,7. Healthy leaf
-448.jpg,4. Helopeltis
+448.jpg,7. Healthy leaf
 449.jpg,7. Healthy leaf
-45.jpg,5. Red spider
+45.jpg,2. Brown Blight
 450.jpg,7. Healthy leaf
 451.jpg,7. Healthy leaf
 452.jpg,7. Healthy leaf
 453.jpg,7. Healthy leaf
-454.jpg,4. Helopeltis
+454.jpg,7. Healthy leaf
 455.jpg,7. Healthy leaf
 456.jpg,7. Healthy leaf
 457.jpg,7. Healthy leaf
 458.jpg,7. Healthy leaf
-459.jpg,2. Brown Blight
+459.jpg,6. Green mirid bug
 46.jpg,2. Brown Blight
 460.jpg,7. Healthy leaf
 461.jpg,7. Healthy leaf
@@ -408,98 +408,98 @@ filename,class
 465.jpg,7. Healthy leaf
 466.jpg,7. Healthy leaf
 467.jpg,7. Healthy leaf
-468.jpg,4. Helopeltis
+468.jpg,7. Healthy leaf
 469.jpg,7. Healthy leaf
 47.jpg,2. Brown Blight
-470.jpg,4. Helopeltis
+470.jpg,7. Healthy leaf
 471.jpg,7. Healthy leaf
 472.jpg,7. Healthy leaf
 473.jpg,7. Healthy leaf
 474.jpg,7. Healthy leaf
-475.jpg,3. Gray Blight
+475.jpg,7. Healthy leaf
 476.jpg,7. Healthy leaf
 477.jpg,7. Healthy leaf
 478.jpg,7. Healthy leaf
 479.jpg,7. Healthy leaf
-48.jpg,1. Tea algal leaf spot
+48.jpg,6. Green mirid bug
 480.jpg,7. Healthy leaf
 481.jpg,7. Healthy leaf
 482.jpg,7. Healthy leaf
-483.jpg,7. Healthy leaf
-484.jpg,4. Helopeltis
-485.jpg,4. Helopeltis
+483.jpg,4. Helopeltis
+484.jpg,3. Gray Blight
+485.jpg,7. Healthy leaf
 486.jpg,7. Healthy leaf
-487.jpg,5. Red spider
+487.jpg,7. Healthy leaf
 488.jpg,7. Healthy leaf
-489.jpg,7. Healthy leaf
+489.jpg,5. Red spider
 49.jpg,2. Brown Blight
 490.jpg,7. Healthy leaf
 491.jpg,7. Healthy leaf
-492.jpg,7. Healthy leaf
-493.jpg,3. Gray Blight
+492.jpg,5. Red spider
+493.jpg,7. Healthy leaf
 494.jpg,7. Healthy leaf
 495.jpg,7. Healthy leaf
-496.jpg,4. Helopeltis
-497.jpg,4. Helopeltis
-498.jpg,7. Healthy leaf
+496.jpg,7. Healthy leaf
+497.jpg,7. Healthy leaf
+498.jpg,5. Red spider
 499.jpg,7. Healthy leaf
-5.jpg,5. Red spider
+5.jpg,1. Tea algal leaf spot
 50.jpg,2. Brown Blight
 500.jpg,7. Healthy leaf
 501.jpg,7. Healthy leaf
 502.jpg,7. Healthy leaf
 503.jpg,7. Healthy leaf
-504.jpg,2. Brown Blight
-51.jpg,6. Green mirid bug
-52.jpg,4. Helopeltis
+504.jpg,7. Healthy leaf
+51.jpg,2. Brown Blight
+52.jpg,6. Green mirid bug
 53.jpg,2. Brown Blight
-54.jpg,5. Red spider
-55.jpg,4. Helopeltis
-56.jpg,1. Tea algal leaf spot
-57.jpg,3. Gray Blight
+54.jpg,2. Brown Blight
+55.jpg,2. Brown Blight
+56.jpg,2. Brown Blight
+57.jpg,2. Brown Blight
 58.jpg,1. Tea algal leaf spot
 59.jpg,2. Brown Blight
-6.jpg,1. Tea algal leaf spot
+6.jpg,2. Brown Blight
 60.jpg,1. Tea algal leaf spot
-61.jpg,2. Brown Blight
+61.jpg,1. Tea algal leaf spot
 62.jpg,2. Brown Blight
-63.jpg,5. Red spider
-64.jpg,1. Tea algal leaf spot
-65.jpg,3. Gray Blight
-66.jpg,2. Brown Blight
+63.jpg,1. Tea algal leaf spot
+64.jpg,2. Brown Blight
+65.jpg,2. Brown Blight
+66.jpg,1. Tea algal leaf spot
 67.jpg,2. Brown Blight
-68.jpg,6. Green mirid bug
+68.jpg,5. Red spider
 69.jpg,1. Tea algal leaf spot
-7.jpg,5. Red spider
-70.jpg,1. Tea algal leaf spot
-71.jpg,1. Tea algal leaf spot
-72.jpg,6. Green mirid bug
-73.jpg,6. Green mirid bug
-74.jpg,2. Brown Blight
+7.jpg,1. Tea algal leaf spot
+70.jpg,2. Brown Blight
+71.jpg,5. Red spider
+72.jpg,2. Brown Blight
+73.jpg,2. Brown Blight
+74.jpg,3. Gray Blight
 75.jpg,3. Gray Blight
-76.jpg,6. Green mirid bug
-77.jpg,5. Red spider
-78.jpg,7. Healthy leaf
+76.jpg,1. Tea algal leaf spot
+77.jpg,3. Gray Blight
+78.jpg,3. Gray Blight
 79.jpg,5. Red spider
-8.jpg,2. Brown Blight
-80.jpg,2. Brown Blight
-81.jpg,2. Brown Blight
-82.jpg,7. Healthy leaf
-83.jpg,3. Gray Blight
-84.jpg,1. Tea algal leaf spot
-85.jpg,7. Healthy leaf
-86.jpg,2. Brown Blight
-87.jpg,7. Healthy leaf
-88.jpg,5. Red spider
-89.jpg,7. Healthy leaf
-9.jpg,5. Red spider
-90.jpg,7. Healthy leaf
-91.jpg,7. Healthy leaf
-92.jpg,2. Brown Blight
-93.jpg,1. Tea algal leaf spot
-94.jpg,5. Red spider
-95.jpg,7. Healthy leaf
-96.jpg,1. Tea algal leaf spot
+8.jpg,1. Tea algal leaf spot
+80.jpg,6. Green mirid bug
+81.jpg,7. Healthy leaf
+82.jpg,3. Gray Blight
+83.jpg,5. Red spider
+84.jpg,3. Gray Blight
+85.jpg,3. Gray Blight
+86.jpg,3. Gray Blight
+87.jpg,2. Brown Blight
+88.jpg,4. Helopeltis
+89.jpg,4. Helopeltis
+9.jpg,1. Tea algal leaf spot
+90.jpg,5. Red spider
+91.jpg,3. Gray Blight
+92.jpg,5. Red spider
+93.jpg,5. Red spider
+94.jpg,2. Brown Blight
+95.jpg,3. Gray Blight
+96.jpg,3. Gray Blight
 97.jpg,1. Tea algal leaf spot
 98.jpg,5. Red spider
-99.jpg,3. Gray Blight
+99.jpg,5. Red spider

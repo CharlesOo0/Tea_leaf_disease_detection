@@ -29,9 +29,11 @@ Data augmentation helps improve model generalization by increasing data diversit
 ## 🔧 Techniques Used
 
 - **Transfer Learning**:
-  - The base MobileNetV2 model is loaded with pre-trained ImageNet weights.
-  - Only the custom head is trained initially.
-  - Fine-tuning is performed by unfreezing base model layers after initial convergence.
+  - The base MobileNetV2 model is initialized with pre-trained ImageNet weights.
+  - Initially, only the custom classification head is trained, while the base model layers remain frozen.
+  - Fine-tuning is then performed by progressively unfreezing selected layers to allow medium-level adjustments.
+  - In the final phase, all layers are unfrozen and trained with a very low learning rate to refine the model on edge cases and improve generalization. (This phase has been dropped due to low improvements)
+
 
 - **Callbacks**:
   - EarlyStopping: To prevent overfitting and stop training when validation loss no longer improves.
